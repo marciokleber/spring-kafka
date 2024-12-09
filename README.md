@@ -1,0 +1,1 @@
+# Projeto laboral para uso da tecnologia apache kafka.
